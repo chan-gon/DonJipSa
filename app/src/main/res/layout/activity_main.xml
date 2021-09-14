@@ -11,7 +11,7 @@
         android:layout_width="137dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="316dp"
-        android:text="기존 정산"
+        android:text="@string/history"
 
         android:backgroundTint="#3053CC"
         android:textSize="20dp"
@@ -28,7 +28,7 @@
 
         android:backgroundTint="#C1DCB0"
         android:textColor="#000000"
-        android:text="새로운 정산"
+        android:text="@string/new_calculation"
         android:textSize="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.485"

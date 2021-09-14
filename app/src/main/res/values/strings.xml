@@ -1,12 +1,9 @@
 <resources>
-    <string name="app_name">mrmoney</string>
-    <string name="date">날짜</string>
-    <string name="kind">종류</string>
+    <string name="app_name">N분의 일</string>
+    <string name="editDate">날짜수정</string>
     <string name="location">장소</string>
     <string name="participant">참가자</string>
     <string name="spend_money">지출금액</string>
-    <string name="sum_money">합계</string>
-    <string name="etc">특이사항</string>
-
-    <string name="new_calculation">새로운 정산</string>
+    <string name="new_calculation">N분의 일</string>
+    <string name="history">히스토리</string>
 </resources>
